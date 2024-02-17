@@ -1,0 +1,10 @@
+firefox-bin
+lightdm-webkit-theme-aether
+picom-joneburg-git
+shell-color-scripts
+slack-desktop
+spotify
+stacer-bin
+visual-studio-code-bin
+volnoti
+yay
