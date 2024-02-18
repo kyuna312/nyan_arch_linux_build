@@ -10,7 +10,7 @@ pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
 ```
 
-<!-- # Pictures  -->
-<!-- <img src="desktop_pictures/plain.png"> -->
-<!-- <img src="desktop_pictures/terminal1.png"> -->
-<!-- <img src="desktop_pictures/terminal2.png"> -->
+<!-- # Pictures 
+<img src="desktop_pictures/plain.png">
+<img src="desktop_pictures/terminal1.png">
+<img src="desktop_pictures/terminal2.png"> -->
